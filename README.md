@@ -2,7 +2,7 @@
 >팀 프로젝트 주제:화장품(탬버린즈)
 
 # 사용 언어 및 기술
-<br><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 ### Back-end
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
